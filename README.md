@@ -1,5 +1,5 @@
 ```
-👋 Olá, eu sou @HiCoderpro
+👋 Olá, eu sou @LucasOliveira
 👀 Estou interessado em ... Web3, JavaScript, HTML & CSS ou Python
 🌱 Atualmente, estou aprendendo HTML, CSS e React
 💞️ Estou procurando colaborar em ... Web3dev
